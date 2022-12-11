@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/CourtCourt521/cyoa/cyoastory"
+	"github.com/CourtCourt521/cyoa"
 	"os"
 )
 
